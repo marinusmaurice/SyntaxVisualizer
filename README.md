@@ -6,6 +6,8 @@ I created it because I didn't want to have to open visual studio each time to us
 
 The original was created by Sam Harwell (I think) so in essence. ... follow whatever he chose as the licence
 
+To use:
+Simply paste your code and click that button.
 
 
 ![image](https://user-images.githubusercontent.com/75542535/154913344-6214287f-8d43-4b9f-baf2-f965580a063a.png)
